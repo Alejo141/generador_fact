@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+fitz
+datetime
+os
